@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <!-- Cobalt tile; H stems Porcelain and Copper, crossbar Cobalt's yellow accent -->
+  <rect width="128" height="128" rx="24" fill="#11306e"/>
+  <rect x="28" y="26" width="24" height="76" rx="4" fill="#faf8f3"/>
+  <rect x="76" y="26" width="24" height="76" rx="4" fill="#e8774a"/>
+  <rect x="52" y="53" width="24" height="22" fill="#ffe36b"/>
+</svg>
