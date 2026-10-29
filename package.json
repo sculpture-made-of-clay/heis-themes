@@ -2,7 +2,7 @@
   "name": "heis-themes",
   "displayName": "Heis Themes",
   "description": "4 modern color themes for Ruby on Rails and Vue, named after clays and glazes. Keeps your own font",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "publisher": "sculpture-made-of-clay",
   "icon": "images/icon.png",
   "license": "MIT",
